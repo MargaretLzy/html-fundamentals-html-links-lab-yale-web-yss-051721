@@ -1,11 +1,3 @@
-# HTML Links
-
-## Learning Goals
-
-1. Recognize how `a` tags are structured and implemented
-2. Create different types of links with the `a` tag
-
-## Introduction
 
 Links, also known as _hyperlinks_, put the _web_ in _World Wide Web_: many
 millions of HTML pages, connected together through _links_. In this lab, we will
